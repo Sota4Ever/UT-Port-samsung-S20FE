@@ -1,0 +1,30 @@
+# Copyright (C) 2020 - Dreemurrs Embedded Labs
+#
+# These services are disabled due to them being unnecessary critical process
+# and crash loop.
+
+service lmkd lmkd_HYBRIS_DISABLED
+    disabled
+    oneshot
+    override
+
+service vendor.imsdatadaemon imsdatadaemon_HYBRIS_DISABLED
+    disabled
+    oneshot
+    override
+
+service vendor.ims_rtp_daemon ims_rtp_daemon_HYBRIS_DISABLED
+    disabled
+    oneshot
+    override
+
+# reenable audio HAL service to use audio.hidl_compat wrapper HAL
+# service vendor.audio-hal-2-0 android.hardware.audio@2.0-service_HYBRIS_DISABLED
+#    disabled
+#    oneshot
+#    override
+
+service time_daemon time_daemon_HYBRIS_DISABLED
+    disabled
+    oneshot
+    override
