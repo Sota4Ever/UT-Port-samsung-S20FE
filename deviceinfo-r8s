@@ -15,8 +15,6 @@ deviceinfo_kernel_source="https://github.com/Sota4Ever/android_kernel_samsung_ex
 deviceinfo_kernel_source_branch="halium-13"
 deviceinfo_kernel_defconfig="exynos9830-r8slte_defconfig"
 deviceinfo_kernel_clang_compile="true"
-deviceinfo_kernel_llvm_compile="true"
-deviceinfo_kernel_use_lld="true"
 deviceinfo_kernel_image_name="Image"
 
 ##########

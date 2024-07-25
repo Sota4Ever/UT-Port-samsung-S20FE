@@ -1,2 +1,6 @@
 workdir
 build
+ota
+images
+out
+deviceinfo
