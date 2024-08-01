@@ -5,7 +5,7 @@ deviceinfo_name="Samsung Galaxy S20 FE"
 deviceinfo_manufacturer="Samsung"
 deviceinfo_codename="r8s"
 deviceinfo_arch="aarch64"
-deviceinfo_halium_version="12"
+deviceinfo_halium_version="11"
 deviceinfo_ubuntu_touch_release="focal"
 
 ##########
