@@ -1,0 +1,43 @@
+##########
+# Basic device information
+
+deviceinfo_name="Samsung Galaxy S20 FE"
+deviceinfo_manufacturer="Samsung"
+deviceinfo_codename="r8q"
+deviceinfo_arch="aarch64"
+deviceinfo_halium_version="13"
+deviceinfo_ubuntu_touch_release="focal"
+
+##########
+# Kernel
+
+deviceinfo_kernel_source="https://github.com/Lkewq/android_kernel_samsung_sm8250_halium.git"
+deviceinfo_kernel_source_branch="lineage-21"
+deviceinfo_kernel_defconfig="r8q_halium_defconfig"
+deviceinfo_kernel_clang_compile="true"
+deviceinfo_kernel_image_name="Image"
+
+##########
+# Boot image
+
+deviceinfo_bootimg_header_version="2"
+deviceinfo_bootimg_os_version="13.0.0"
+deviceinfo_bootimg_os_patch_level="2023-04"
+deviceinfo_bootimg_qcdt="true"
+deviceinfo_bootimg_partition_size="67108864"
+deviceinfo_bootimg_board="SRPUB26A007"
+deviceinfo_kernel_use_dtc_ext="true"
+deviceinfo_bootimg_prebuilt_dtb="sm8250-r8q.dtb"
+deviceinfo_flash_pagesize="4096"
+deviceinfo_flash_offset_base="0x00000000"
+deviceinfo_flash_offset_kernel="0x00008000"
+deviceinfo_kernel_cmdline="console=null androidboot.hardware=qcom androidboot.memcg=1 lpm_levels.sleep_disabled=1 video=vfb:640x400,bpp=32,memsize=3072000 msm_rtb.filter=0x237 service_locator.enable=1 androidboot.usbcontroller=a600000.dwc3 swiotlb=2048 printk.devkmsg=on firmware_class.path=/vendor/firmware_mnt/image loop.max_part=7"
+deviceinfo_flash_offset_ramdisk="0x02000000"
+deviceinfo_flash_offset_second="0x00000000"
+deviceinfo_flash_offset_tags="0x01e00000"
+deviceinfo_flash_offset_dtb="0x01f00000"
+deviceinfo_rootfs_image_sector_size="4096"
+
+deviceinfo_ramdisk_compression="gzip"
+##########
+
