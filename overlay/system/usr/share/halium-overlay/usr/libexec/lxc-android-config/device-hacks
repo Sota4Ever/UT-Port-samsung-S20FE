@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# This is device-hacks, a placeholder file for device-specific "hacks" or commands
+# that has to be run on the GNU/Linux side at boot.
+
+# To use, overlay a shell script to this file. By default, it'll run after
+# lxc-android-config.service (the container), but one can override the behavior
+# by overlaying device-hacks.service.d/device-specific-settings.conf or the
+# device-hacks.service file itself.
+
+# Fix Flashlight permission
+chown phablet /sys/devices/virtual/camera/flash/rear_flash
