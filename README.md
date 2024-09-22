@@ -59,8 +59,8 @@ Release Date | 02 October 2020
 | Bluetooth            |                                                                 |  ❌   |
 | Bluetooth Audio      |                                                                 |  ❌   |
 | GPS                  |                                                                 |  ✅   |
-| Speakers             |                                                                 |  ❌   |
-| Microphone           |                                                                 |  ❌   |
+| Speakers             |                                                                 |  ✅   |
+| Microphone           |                                                                 |  ✅   |
 | GPU                  |                                                                 |  ✅   |
 | Camera               | Can't take photos (apparmor problems)                           |  ⚠️   |
 | Mobile Data          |                                                                 |  ❔   |
