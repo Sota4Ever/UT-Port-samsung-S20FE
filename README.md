@@ -55,12 +55,9 @@ Release Date | 02 October 2020
 | WLAN                 | After rebooting it disconnects and sometimes doesn't detect it  |  ⚠️   |
 | CPU                  |                                                                 |  ✅   |
 | Touchscreen          |                                                                 |  ✅   |
-| Audio                |                                                                 |  ✅   |
+| Audio (Speakers/Microphone) |                                                          |  ✅   |
 | Bluetooth            |                                                                 |  ❌   |
-| Bluetooth Audio      |                                                                 |  ❌   |
 | GPS                  |                                                                 |  ✅   |
-| Speakers             |                                                                 |  ✅   |
-| Microphone           |                                                                 |  ✅   |
 | GPU                  |                                                                 |  ✅   |
 | Camera               | Can't take photos (apparmor problems)                           |  ⚠️   |
 | Mobile Data          |                                                                 |  ❔   |
@@ -71,6 +68,6 @@ Release Date | 02 October 2020
 | Rotation             |                                                                 |  ✅   | 
 | Waydroid             |                                                                 |  ❔   | 
 | Double Tap to Wake   |                                                                 |  ❌   | 
-| SSH                  | you have to do it manually                                      |  ✅   | 
+| SSH                  | You have to do it manually                                      |  ✅   | 
 | Virtualization       |                                                                 |  ❔   |
 | Automatic brightness |                                                                 |  ❔   |
