@@ -36,38 +36,39 @@ Release Date | 02 October 2020
 <tr><th>Ubuntu Touch</th></tr>
 <tr><td>
 
-| Feature              | Description                                                     | State |
-|:---------------------|:----------------------------------------------------------------|:-----:|
-| Recovery             |                                                                 |  ❔   |
-| Side Buttons         |                                                                 |  ✅   |
-| Proximity Sensor     |                                                                 |  ✅   |
-| Light Sensor         |                                                                 |  ✅   |
-| Accelerometer Sensor |                                                                 |  ❌   |
-| Compass Sensor       |                                                                 |  ✅   | 
-| Gyroscope Sensor     |                                                                 |  ✅   |
-| Fingerprint Sensor   |                                                                 |  ❌   |
-| Temperature Sensor   |                                                                 |  ❌   |
-| Battery              |                                                                 |  ✅   |
-| USB Host Mode        |                                                                 |  ✅   |
-| USB Device Mode      |                                                                 |  ❔   |
-| USB Power Delivery   |                                                                 |  ✅   |
-| Charging             |                                                                 |  ✅   |
-| WLAN                 | After rebooting it disconnects and sometimes doesn't detect it  |  ⚠️   |
-| CPU                  |                                                                 |  ✅   |
-| Touchscreen          |                                                                 |  ✅   |
-| Audio (Speakers/Microphone) |                                                          |  ✅   |
-| Bluetooth            |                                                                 |  ❌   |
-| GPS                  |                                                                 |  ✅   |
-| GPU                  |                                                                 |  ✅   |
-| Camera               | Can't take photos (apparmor problems)                           |  ⚠️   |
-| Mobile Data          |                                                                 |  ❔   |
-| Hotspot              |                                                                 |  ❔   |
-| Airplane Mode        |                                                                 |  ❔   |
-| Display              |                                                                 |  ✅   | 
-| Vibration            |                                                                 |  ✅   |
-| Rotation             |                                                                 |  ✅   | 
-| Waydroid             |                                                                 |  ❔   | 
-| Double Tap to Wake   |                                                                 |  ❌   | 
-| SSH                  | You have to do it manually                                      |  ✅   | 
-| Virtualization       |                                                                 |  ❔   |
-| Automatic brightness |                                                                 |  ❔   |
+| Feature                    | Description                                                    | State |
+|:---------------------------|:---------------------------------------------------------------|:-----:|
+| Recovery                   |                                                                |  ❔   |
+| Side Buttons               |                                                                |  ✅   |
+| Proximity Sensor           |                                                                |  ❌   |
+| Ambient Light Sensor       |                                                                |  ✅   |
+| Light Sensor               |                                                                |  ✅   |
+| Accelerometer Sensor       |                                                                |  ✅   |
+| Compass Sensor             |                                                                |  ✅   | 
+| Gyroscope Sensor           |                                                                |  ✅   |
+| Rotation                   |                                                                |  ✅   |
+| Fingerprint Sensor         |                                                                |  ❌   |
+| Temperature Sensor         |                                                                |  ❌   |
+| Battery                    |                                                                |  ✅   |
+| USB Host Mode              |                                                                |  ✅   |
+| USB Device Mode            |                                                                |  ❔   |
+| USB Power Delivery         |                                                                |  ✅   |
+| Charging                   |                                                                |  ✅   |
+| WLAN                       | After rebooting it disconnects and sometimes doesn't detect it |  ⚠️   |
+| CPU                        |                                                                |  ✅   |
+| Touchscreen                |                                                                |  ✅   |
+| Audio (Speakers/Microphone)|                                                                |  ✅   |
+| Bluetooth                  |                                                                |  ❌   |
+| GPS                        |                                                                |  ✅   |
+| GPU                        |                                                                |  ✅   |
+| Camera                     | Can't take photos (apparmor problems)                          |  ⚠️   |
+| Mobile Data                |                                                                |  ❔   |
+| Hotspot                    |                                                                |  ❔   |
+| Airplane Mode              |                                                                |  ✅   |
+| Display                    |                                                                |  ✅   | 
+| Vibration                  |                                                                |  ✅   | 
+| Waydroid                   |                                                                |  ❔   | 
+| Double Tap to Wake         |                                                                |  ❌   | 
+| SSH                        | You have to do it manually                                     |  ✅   | 
+| Virtualization             |                                                                |  ❔   |
+| Automatic brightness       |                                                                |  ✅   |
