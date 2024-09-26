@@ -11,7 +11,7 @@ deviceinfo_ubuntu_touch_release="focal"
 ##########
 # Kernel
 
-deviceinfo_kernel_source="https://github.com/Sota4Ever/android_kernel_samsung_exynos990.git"
+deviceinfo_kernel_source="https://github.com/Sota4Ever/linux-android-samsung-r8s.git"
 deviceinfo_kernel_source_branch="halium-13"
 deviceinfo_kernel_defconfig="exynos9830-r8slte_defconfig"
 deviceinfo_kernel_clang_compile="true"
