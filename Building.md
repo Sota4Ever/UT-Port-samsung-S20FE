@@ -27,7 +27,7 @@ Build and wait for it to finish with the following command:
 ### Step 3
 Once completed, run the next command:
 ```
-./build/prepare-fake-ota.sh out/device_r8s_usrmerge.tar.xz
+./build/prepare-fake-ota.sh out/device_r8s_usrmerge.tar.xz ota
 ```
 
 This will download files, extract, and compress.
