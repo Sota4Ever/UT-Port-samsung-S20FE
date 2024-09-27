@@ -15,27 +15,30 @@ Replace "/path/to/" with the actual folder location of your recovery.img file.
 Press VOLUMEN UP + POWER BUTTON with the cable connected to a device
 
 - ### Format the following partitions
-
-<img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 1" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-19-32-46.png" width="200" alt="Screenshot 2" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-19-32-50.png" width="200" alt="Screenshot 3" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-19-37-42.png" width="200" alt="Screenshot 4" style="display:inline;">
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-32-46.png" width="200" alt="Screenshot 1" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-32-50.png" width="200" alt="Screenshot 2" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 3" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-37-42.png" width="200" alt="Screenshot 4">
+</div>
 
 - ### Flash the boot image (boot.img)
-
-<img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 1" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-31-20.png" width="200" alt="Screenshot 2" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-31-24.png" width="200" alt="Screenshot 3" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-31-41.png" width="200" alt="Screenshot 4" style="display:inline;">
+<div style="display: flex; justify-content: flex-start; align-items: center; margin-bottom: 10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 1" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-31-20.png" width="200" alt="Screenshot 2" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-31-24.png" width="200" alt="Screenshot 3" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-31-41.png" width="200" alt="Screenshot 4">
+</div>
 
 ### Put ext4 format on the /data partition
-
-<img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 1" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-19-32-46.png" width="200" alt="Screenshot 2" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-55-16.png" width="200" alt="Screenshot 3" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-49-50.png" width="200" alt="Screenshot 4" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-49-50.png" width="200" alt="Screenshot 5" style="display:inline; margin-right:10px;">
-<img src="Screenshots/Screenshot_2024-09-26-20-50-04.png" width="200" alt="Screenshot 6" style="display:inline;">
+<div style="display: flex; justify-content: flex-start; align-items: center; margin-bottom: 10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-35-47.png" width="200" alt="Screenshot 1" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-19-32-46.png" width="200" alt="Screenshot 2" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-55-16.png" width="200" alt="Screenshot 3" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-49-50.png" width="200" alt="Screenshot 4" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-49-50.png" width="200" alt="Screenshot 5" style="margin-right:10px;">
+    <img src="Screenshots/Screenshot_2024-09-26-20-50-04.png" width="200" alt="Screenshot 6">
+</div>
 
 *Swipe to change*
 
