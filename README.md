@@ -2,10 +2,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ______________________
-![](https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png)
 
-Device configuration for Samsung Galaxy S20 FE (SM-G780F).
+Device configuration for Samsung Galaxy S20 FE (SM-G780F)
 ========================================
+<img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="right">
 
 Basic   | Specification List
 -------:|:-------------------------
