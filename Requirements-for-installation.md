@@ -7,8 +7,8 @@ You already know the process for those who are experienced for that, for those w
 
 1. Go to **Settings > About phone** and tap **Build number** 3 or more times to enable **Developer mode**.
 2. Go back to **Settings**, open **Developer options**, and enable **OEM unlocking**. Enter your password if prompted.
-3. Power off the device and quickly connect a **USB OTG** or a USB cable to your computer.
-4. While connecting, press **volume up and volume down** buttons simultaneously to enter **Odin mode**.
+3. Restart the device and quickly connect a **USB OTG** or USB cable to your computer.
+4. While connecting, press **Volume Up + Volume Down** buttons simultaneously to enter **Odin mode**.
 5. In Odin mode, press the volume up button to **unlock the bootloader**. The device will restart and reset to factory settings.
 
 That's it! Your device will have the bootloader unlocked.
