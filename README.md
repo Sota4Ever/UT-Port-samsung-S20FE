@@ -26,7 +26,7 @@ Release Date | 02 October 2020
 <details>
 <summary><b><strong>Progress SM-G780F</strong></b></summary>
 
-| ✅ | **Working**         |
+| ✅    | **Working**     |
 |-------|-----------------|
 | ⚠️    | **Problematic** |
 | ❌    | **Not Working** |
@@ -72,3 +72,16 @@ Release Date | 02 October 2020
 | SSH                        | You have to do it manually                                     |  ✅   | 
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ✅   |
+
+</td></tr> </table>
+
+  </summary>
+</details>
+
+## [Requirements for installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Requirements-for-installation.md)
+
+## [Building](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Building.md)
+
+## [Installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Installation.md)
+
+ # Everything is in process 
