@@ -3,8 +3,9 @@
 
 ______________________
 
-Device configuration for Samsung Galaxy S20 FE (SM-G780F)
-========================================
+# Device configuration for Samsung Galaxy S20 FE (SM-G780F)
+
+<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="left">
 <img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="right">
 
 Basic   | Specification List
@@ -22,6 +23,8 @@ Display | 2400 x 1080 pixel, 6.5"
 Rear Camera  | 12 MP, f/1.8, 26mm (wide), 8 MP, f/2.4, 76mm (telephoto), 12 MP, f/2.2, 13mm, 120˚ (ultrawide), LED flash, auto-HDR, panorama
 Front Camera | 32 MP, f/2.2, 26mm, HDR
 Release Date | 02 October 2020
+
+<img src="https://i.blogs.es/58d773/ubports/450_1000.webp" alt="UBports" width="400" align="center">
 
 <details>
 <summary><b><strong>Progress SM-G780F</strong></b></summary>
@@ -75,7 +78,6 @@ Release Date | 02 October 2020
 
 </td></tr> </table>
 
-  </summary>
 </details>
 
 ## [Requirements for installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Requirements-for-installation.md)
