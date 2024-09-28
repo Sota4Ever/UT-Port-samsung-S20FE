@@ -57,16 +57,16 @@ Release Date | 02 October 2020
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ✅   |
 | Charging                   |                                                                |  ✅   |
-| WLAN                       | After rebooting it disconnects and sometimes doesn't detect it |  ⚠️   |
+| WLAN                       | After rebooting it disconnects and sometimes doesn't detect it |  ⚠️    |
 | CPU                        |                                                                |  ✅   |
 | Touchscreen                |                                                                |  ✅   |
 | Audio (Speakers/Microphone)|                                                                |  ✅   |
 | Bluetooth                  |                                                                |  ❌   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
-| Camera                     | Can't take photos (apparmor problems)                          |  ⚠️   |
-| Mobile Data                |                                                                |  ❔   |
-| Hotspot                    |                                                                |  ❔   |
+| Camera                     | Can't take photos (apparmor problems)                          |  ⚠️    |
+| Mobile Data                |                                                                |  ✅   |
+| Hotspot                    |                                                                |  ✅   |
 | Airplane Mode              |                                                                |  ✅   |
 | Display                    |                                                                |  ✅   | 
 | Vibration                  |                                                                |  ✅   | 
