@@ -15,6 +15,7 @@ That's it! Your device will have the bootloader unlocked.
 
 ## Stock ROM (the original firmware)
 For those who are using custom ROM, unfortunately you have to put STOCK ROM :(
+You can find your firmware on the SM-G780F device page: [*samfw SM-G780F*](https://samfw.com/firmware/SM-G780F)
 
 ## Disable vbmeta
 # ⚠️ Caution ⚠️
