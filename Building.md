@@ -17,14 +17,19 @@ Clone the repository:
 ```
 git clone https://github.com/Sota4Ever/UT-Port-samsung-S20FE.git -b halium-13-r8s --depth 1
 ```
-
 ### Step 2
+Go into the repository and you have to put a `deviceinfo-r8s` link symbol with the following command:
+```
+ln -s deviceinfo-r8s deviceinfo
+```
+
+### Step 3
 Build and wait for it to finish with the following command:
 ```
 ./build.sh -b workdir
 ```
 
-### Step 3
+### Step 4
 Once completed, run the next command:
 ```
 ./build/prepare-fake-ota.sh out/device_r8s_usrmerge.tar.xz ota
@@ -32,7 +37,7 @@ Once completed, run the next command:
 
 This will download files, extract, and compress.
 
-### Step 4
+### Step 5
 Now, prepare images with the following command:
 ```
 ./build/system-image-from-ota.sh ota/ubuntu_command images
