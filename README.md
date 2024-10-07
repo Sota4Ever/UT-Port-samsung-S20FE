@@ -5,7 +5,7 @@ ______________________
 
 # Device configuration for Samsung Galaxy S20 FE (SM-G780F)
 
-<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="left">
+<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="375" align="left">
 <img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="right">
 
 Basic   | Specification List
@@ -54,7 +54,7 @@ Release Date | 02 October 2020
 | Temperature Sensor         |                                                                |  ❌   |
 | Battery                    |                                                                |  ✅   |
 | USB Host Mode              |                                                                |  ✅   |
-| USB Device Mode            |                                                                |  ❔   |
+| USB Device Mode            |                                                                |  ✅   |
 | USB Power Delivery         |                                                                |  ✅   |
 | Charging                   |                                                                |  ✅   |
 | WLAN                       | Usually sometimes does not detect.                             |  ⚠️   |
