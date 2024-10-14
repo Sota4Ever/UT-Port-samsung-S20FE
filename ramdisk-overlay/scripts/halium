@@ -145,6 +145,8 @@ set_halium_version_properties() {
 	echo "" >>$halium_override_prop
 	echo "# Enable interactive drawer blur" >>$halium_override_prop
 	echo "ubuntu.unity8.interactive_blur=true" >>$halium_override_prop
+	echo "# Enable wireless display support" >>$halium_override_prop
+	echo "ubuntu.widi.supported=1" >>$halium_override_prop
 	echo "" >>$halium_override_prop
 
 	echo "### EOF" >>$halium_override_prop
