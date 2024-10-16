@@ -1,0 +1,4 @@
+# Enable interactive drawer blur
+ubuntu.unity8.interactive_blur=true
+# Enable wireless display support
+ubuntu.widi.supported=1

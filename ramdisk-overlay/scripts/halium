@@ -135,22 +135,6 @@ set_halium_version_properties() {
 	echo -n "$version" >$android_data/property/persist.halium.version
 	echo -n "$def_lang" >$android_data/property/persist.halium.default_language
 	chmod 600 $android_data/property/persist.halium*
-
-	# Persistent properties can be written to $android_data/property but this does not work
-	# for non-persistent properties.
-	# Fortunately we can write to $halium_override_prop to pick them up.
-
-	echo "### DO NOT MANUALLY EDIT, THIS FILE GETS OVERWRITTEN" >$halium_override_prop
-
-	echo "" >>$halium_override_prop
-	echo "# Enable interactive drawer blur" >>$halium_override_prop
-	echo "ubuntu.unity8.interactive_blur=true" >>$halium_override_prop
-	echo "# Enable wireless display support" >>$halium_override_prop
-	echo "ubuntu.widi.supported=1" >>$halium_override_prop
-	echo "" >>$halium_override_prop
-
-	echo "### EOF" >>$halium_override_prop
-	chmod 644 $halium_override_prop
 }
 
 mount_android_partitions() {
