@@ -2,9 +2,8 @@ r8s:
   Vendor: Samsung
   Codename: r8s
   Names:
-    - S20 FE 4G
+    - S20 FE
     - r8s
-    - SM-G780F
     - Samsung S20 FE
   PrettyName: Samsung Galaxy S20 FE
   DeviceType: phone
