@@ -1,0 +1,15 @@
+[Unit]
+Description=monitor and control system power state
+Wants=lxc-android-config.service dbus.socket socketfwd.service
+After=lxc-android-config.service dbus.socket
+
+[Service]
+Type=dbus
+BusName=com.lomiri.Repowerd
+[Service]
+ExecStartPre=/bin/sleep 5
+ExecStart=/usr/sbin/repowerd
+EnvironmentFile=-/etc/default/repowerd
+Restart=always
+[Install]
+WantedBy=multi-user.target
