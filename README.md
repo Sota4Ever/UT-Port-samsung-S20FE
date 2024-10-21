@@ -5,8 +5,8 @@ ______________________
 
 # Device configuration for Samsung Galaxy S20 FE (SM-G780F)
 
-<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="375" align="left">
-<img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="right">
+<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="350" align="left">
+<img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="350" align="right">
 
 Basic   | Specification List
 -------:|:-------------------------
@@ -61,7 +61,7 @@ Release Date | 02 October 2020
 | CPU                        |                                                                |  ✅   |
 | Touchscreen                |                                                                |  ✅   |
 | Audio (Speakers/Microphone)|                                                                |  ✅   |
-| Bluetooth                  |                                                                |  ❌   |
+| Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
 | Camera (Photos/QR/Video)   | Can't take photos/videos (camera problems) and QR reading works|  ⚠️   |
